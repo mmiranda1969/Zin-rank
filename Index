@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ZIN-Rank | SEO Potenciado por IA</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: #0b0b0b;
+      color: white;
+    }
+    header {
+      background: linear-gradient(90deg, #0f0f0f, #1a1a1a);
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+      color: #61dafb;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #ccc;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .feature {
+      background: #1c1c1c;
+      padding: 1.5rem;
+      border-radius: 12px;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    }
+    .feature h2 {
+      color: #00ffa0;
+      margin-bottom: 0.5rem;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 3rem;
+    }
+    .cta a {
+      background: #00ffa0;
+      color: #000;
+      padding: 1rem 2rem;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      background: #111;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>ZIN-Rank</h1>
+    <p>La nueva generación de análisis SEO con IA. Preciso, rápido y humano.</p>
+  </header>
+
+  <section>
+    <div class="feature">
+      <h2>🔥 Auditoría SEO automática en segundos</h2>
+      <p>Detectá errores técnicos, enlaces rotos, duplicados y más al instante.</p>
+    </div>
+
+    <div class="feature">
+      <h2>🧠 Inteligencia emocional de contenidos</h2>
+      <p>Analizamos tu tono, estilo y persuasión como lo haría un redactor experto... pero con IA.</p>
+    </div>
+
+    <div class="feature">
+      <h2>📈 Comparativa real con SEMrush, DinoRank y más</h2>
+      <p>Vemos lo que ellos no ven: interacción humana, retención emocional y copywriting SEO.</p>
+    </div>
+
+    <div class="feature">
+      <h2>🕵️‍♂️ Investigación de competencia potenciada</h2>
+      <p>Espiá a tus competidores y descubrí sus debilidades con IA predictiva.</p>
+    </div>
+
+    <div class="feature">
+      <h2>🔗 Backlinks inteligentes</h2>
+      <p>Encontramos enlaces útiles y evitamos los que Google penaliza. Linkbuilding con cerebro.</p>
+    </div>
+
+    <div class="cta">
+      <a href="#">Probar gratis ahora</a>
+    </div>
+  </section>
+
+  <footer>
+    ZIN-Rank © 2025 – Potenciado por inteligencia artificial, desarrollado en Argentina 🇦🇷
+  </footer>
+
+</body>
+</html>
